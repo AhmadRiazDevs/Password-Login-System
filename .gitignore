@@ -1,0 +1,24 @@
+# Executables
+*.exe
+*.o
+*.out
+*.a
+*.dll
+
+# Data files (optional - exclude if you want to share sample data)
+data/
+*.txt
+
+# IDE/Editor files
+.vscode/
+*.code-workspace
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Build artifacts
+build/
+Debug/
+Release/
